@@ -84,6 +84,7 @@ nav a {
     letter-spacing: 0.3em;
     line-height: 1.5;
     padding-right: 25px;
+    font-family: 'DotGothic16', sans-serif;
     
 
 }
@@ -107,49 +108,6 @@ nav a:nth-child(4) {
 
 
 
-
-
-
-a {
-
-    color: green;
-
-}
-
-
-
-
-
-.div1 a{
-    
-     
-    color: #435560;
-    font-family: 'DotGothic16', sans-serif;
-    
-}
-
-.div2  a{
-    
-     
-     
-    color: #435560;
-    font-family: 'DotGothic16', sans-serif;
-}
-
-.div3 a{
-    
-     
-    color: #435560;
-    font-family: 'DotGothic16', sans-serif;
-}
-
-.div4 a{
-    
-    
-     
-    color: #435560;
-    font-family: 'DotGothic16', sans-serif;
-}
 
 a:hover {
     text-decoration: underline dotted white;
